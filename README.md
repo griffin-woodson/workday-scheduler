@@ -10,4 +10,4 @@ SO THAT I can manage my time effectively
 Link to live website: https://griffin-woodson.github.io/workday-scheduler/
 
 ## Screenshot
-![griffin-woodson github io_workday-scheduler]()
+![griffin-woodson github io_workday-scheduler](https://github.com/griffin-woodson/workday-scheduler/blob/95b71afc1da80a1b48f357084fe5c03ca2b45c55/assets/images/scheduler-screenshot.png)
